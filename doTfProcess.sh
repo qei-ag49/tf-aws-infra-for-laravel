@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 
-# プロジェクトディレクトリから、`sh ../doProcess.sh`を実行させるイメージ
+# プロジェクトディレクトリから、`sh ./doProcess.sh`を実行させるイメージ
 # 
 
 # Terraformの実行に必要なプラグインを取得
