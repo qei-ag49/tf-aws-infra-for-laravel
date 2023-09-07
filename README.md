@@ -6,6 +6,7 @@
 ## AWSアーキテクチャ構成図
 [AWSアーキテクチャ構成図の画像](https://camo.qiitausercontent.com/e5c2f8bab122d279aba7b8e7c5d2a6b77c0d3329/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3836373737352f30373939636236352d643831622d343662352d363936362d6439303034366239383337332e706e67)
 
+
 ## CI/CDの構成
 - ソースステージ：Laravelアプリケーションのgithubリポジトリの特定のブランチの変更をCodeStarが検知
 - ビルドステージ：CodeBuild
@@ -13,7 +14,7 @@
 
 ## Laravelアプリケーションのgithubリポジトリ
 laravel8-video-learning  
-https://github.com/qei-ag49/laravel8-video-learning
+[https://github.com/qei-ag49/laravel8-video-learning](https://github.com/qei-ag49/laravel8-video-learning)
 
 ## 実行方法
 - `sh ./doProcess.sh`を実行
